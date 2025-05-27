@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekreddii/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/vivekreddii/leetcode/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/vivekreddii/leetcode/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vivekreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
