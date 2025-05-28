@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vivekreddii/leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/vivekreddii/leetcode/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vivekreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vivekreddii/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/vivekreddii/leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/vivekreddii/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/vivekreddii/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vivekreddii/leetcode/tree/master/0898-transpose-matrix) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/vivekreddii/leetcode/tree/master/0861-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vivekreddii/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
