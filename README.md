@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vivekreddii/leetcode/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/vivekreddii/leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/vivekreddii/leetcode/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vivekreddii/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vivekreddii/leetcode/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vivekreddii/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vivekreddii/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
